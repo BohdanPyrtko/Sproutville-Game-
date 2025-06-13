@@ -51,10 +51,12 @@ This game is made with love for the peaceful village life vibe, where each day b
 
 ```bash
 pip install pygame pytmx
+```
+2.Run the game:
 
-2. Run the game:
-bash
+```bash
 python main.py
+```
 
 💡 Author
 👨‍💻 Bohdan
