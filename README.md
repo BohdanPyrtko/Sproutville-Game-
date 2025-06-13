@@ -53,6 +53,7 @@ This game is made with love for the peaceful village life vibe, where each day b
 pip install pygame pytmx
 
 2. Run the game:
+bash
 python main.py
 
 💡 Author
