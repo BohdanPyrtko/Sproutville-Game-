@@ -1,0 +1,16 @@
+{
+  "health_potion": {
+    "name": "Health Potion",
+    "type": "consumable",
+    "heal_amount": 50,
+    "sprite": "health_potion.png",
+    "price": 10
+  },
+  "sword": {
+    "name": "Iron Sword",
+    "type": "weapon",
+    "damage": 15,
+    "sprite": "wood_sword.png",
+    "price": 50
+  }
+}
